@@ -20,7 +20,6 @@ Clone the Repository: Start by cloning this repository to your local machine.
 ```bash git clone https://github.com/pia-sharma/emp-management-flutter.git```
 
 Navigate to the Project Directory: 
-Open Terminal and type command
 `cd flutter-employee-management`
 ```flutter pub get```
 
