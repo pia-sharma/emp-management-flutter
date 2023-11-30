@@ -22,6 +22,7 @@ Clone the Repository: Start by cloning this repository to your local machine.
 Navigate to the Project & sync:
 
 `cd flutter-employee-management`
+
 ```flutter pub get```
 
 ### Run the Application: 
